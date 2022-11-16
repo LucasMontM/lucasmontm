@@ -1,4 +1,4 @@
-### - Olá, eu sou o Lucas Mont-Mor um Dev Front-End 🔱
+### - Olá, eu sou o Lucas Mont-Mor, um Dev Front-End 🔱
 
 <div align="center">
   <a href="https://github.com/lucasmontm">
